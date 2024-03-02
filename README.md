@@ -1,4 +1,4 @@
-<img width="1439" alt="Screenshot 2024-03-02 at 2 00 10 PM" src="https://github.com/juggepranay/Todo-Full-Stack-Application/assets/64743611/2e600747-8005-405f-a1c4-54faff345c3e"># Todo FullStack Application
+# Todo FullStack Application
 
 This is a robust To-Do application developed using Spring Boot, integrating an H2 database for efficient data management.
 
